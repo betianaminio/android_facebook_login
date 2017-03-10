@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Facebook Login</string>
+    <string name="facebook_app_id">YOUR_API_KEY</string>
+
+    <string name="log_out">Log out</string>
+    <string name="error_message">An error occurred:</string>
+</resources>
